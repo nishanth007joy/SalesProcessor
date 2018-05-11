@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 
 import javax.validation.constraints.NotNull;
 
-import com.nish.salesprocessor.bo.SaleDetailsBO.SaleDetailsBOBuilder;
 import com.nish.salesprocessor.operationtype.Operation;
 
 import lombok.AllArgsConstructor;
