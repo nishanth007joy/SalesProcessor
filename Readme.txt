@@ -8,4 +8,4 @@ This accepts input for two URI
 
 Output is logged to console and different reports are created at location \src\main\resources\SalesReport
 
-Feature file for BDD is located at \src\main\resources\SalesReport and we can run feature file for acceptance test
+Feature file for BDD is located at \src\main\resources\SalesReport and we can run feature file for acceptance test.
